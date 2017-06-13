@@ -30,5 +30,7 @@ Programs should be a good way to demonstrate  the obscure theory. I will host th
 
 ## License
 
+This work\(i.e. all contents under current topic\) is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+
 本作品\(即在当前主题下创作的所有内容\)采用知识共享 署名-非商业性使用-禁止演绎 4.0 国际 许可协议进行许可。访问 [http://creativecommons.org/licenses/by-nc-nd/4.0/](http://creativecommons.org/licenses/by-nc-nd/4.0/) 查看该许可协议。
 
