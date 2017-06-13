@@ -1,3 +1,4 @@
-# First Chapter
+# Chapter 1. A Simple Neural Network
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Here we start with neural network \(briefly, NN\)
+
