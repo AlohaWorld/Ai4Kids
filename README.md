@@ -20,13 +20,17 @@ So I will not call this a BOOK. Instead, I name it "Collection of articles".
 
 ## Why "AI"?
 
-"AI" is really a huge concept that covers a lot of specific scientific or technical fields. For example, machine learning, data mining, natural language processing, robot, auto drive, etc. 
+"AI" is really a huge concept that covers a lot of specific scientific or technical fields. For example, machine learning, data mining, natural language processing, robot, auto drive, etc.
 
-I am not sure what I am going to read or discuss. So maybe a vague scope will urge me to walk along. 
+I am not sure what I am going to read or discuss. So maybe a vague scope will urge me to walk along.
 
 ## How
 
 Programs should be a good way to demonstrate  the obscure theory. I will host these programs in github as well as the collection of articles.
+
+## License
+
+本作品采用知识共享 署名-非商业性使用-禁止演绎 4.0 国际 许可协议进行许可。访问 http://creativecommons.org/licenses/by-nc-nd/4.0/ 查看该许可协议。
 
 
 
