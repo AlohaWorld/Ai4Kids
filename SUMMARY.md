@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Chapter 1 A Simple Neural Network](chapter1.md)
+
