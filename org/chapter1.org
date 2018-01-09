@@ -1,0 +1,6 @@
+#+TITLE: Chapter 1
+* org-mode configuration
+#+FILETAGS: AI4KIDS
+#+STARTUP: overview
+#+STARTUP: hidestars
+#+LANGUAGE: zh-CN

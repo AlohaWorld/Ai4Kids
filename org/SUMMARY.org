@@ -1,0 +1,9 @@
+#+TITLE: SUMMARY
+* org-mode configuration
+#+FILETAGS: AI4KIDS
+#+STARTUP: overview
+#+STARTUP: hidestars
+#+LAST_MOBILE_CHANGE: 2012-05-10 00:19:11
+#+LANGUAGE: zh-CN
+* [[file:README.org][Introduction]] 
+* [[file:chapter1.org][Chapter 1: A Simple Neural Network]]
